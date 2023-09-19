@@ -184,3 +184,12 @@ a {
     border-radius: 6px;
     border: 1px solid #ffffff;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0;
+}
